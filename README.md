@@ -4,6 +4,7 @@
 
 It is an simple landing page created using HTML and CSS</p>
 
+Live Link - https://sairaj1707.github.io/OctaNet_Task-1/
 <h2>Screenshots</h2>
 
 ![image](https://github.com/Sairaj1707/OctaNet_Task-1/assets/137697628/c5606156-0c52-4465-9f55-0becb73aab2a)
